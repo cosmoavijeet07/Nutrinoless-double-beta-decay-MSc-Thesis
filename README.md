@@ -1,9 +1,3 @@
-Here's a README file for your MSc thesis:  
-
----
-
-# README: MSc Thesis on Neutrinoless Double Beta Decay  
-
 ## Title:  
 **Neutrinoless Double Beta Decay: Current Progress and Future Prospects**  
 
